@@ -3,12 +3,12 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD01V>
-    <DOMNAME>ZTESTE34</DOMNAME>
+    <DOMNAME>ZTESTE_NOVO</DOMNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <DATATYPE>CHAR</DATATYPE>
-    <LENG>000099</LENG>
-    <OUTPUTLEN>000099</OUTPUTLEN>
-    <DDTEXT>novo domínio</DDTEXT>
+    <LENG>000001</LENG>
+    <OUTPUTLEN>000001</OUTPUTLEN>
+    <DDTEXT>teste</DDTEXT>
    </DD01V>
   </asx:values>
  </asx:abap>
