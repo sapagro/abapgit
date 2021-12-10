@@ -6,9 +6,9 @@
     <DOMNAME>ZTESTE12</DOMNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <DATATYPE>CHAR</DATATYPE>
-    <LENG>000002</LENG>
-    <OUTPUTLEN>000002</OUTPUTLEN>
-    <DDTEXT>domínio modificado</DDTEXT>
+    <LENG>000004</LENG>
+    <OUTPUTLEN>000004</OUTPUTLEN>
+    <DDTEXT>domínio modificado 4</DDTEXT>
    </DD01V>
   </asx:values>
  </asx:abap>
